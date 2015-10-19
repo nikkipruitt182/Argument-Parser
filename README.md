@@ -16,6 +16,7 @@ This project was a group term project for my Software Engineering I course. The 
 
 ### Unit Tests
 We created unit tests for 4 of our 5 classes (not including exception classes). By the end of the project, we had 94% of the code coverage, or 94% of the code being tested by unit tests. 
+
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Overall%20Code%20Coverage.png "Overall Code Coverage")
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Class%20Code%20Coverage.png "Class by Class Code Coverage")

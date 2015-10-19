@@ -20,7 +20,7 @@ We created unit tests for 4 of our 5 classes (not including exception classes). 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Overall%20Code%20Coverage.png "Overall Code Coverage")
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Class%20Code%20Coverage.png "Class by Class Code Coverage")
-
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Argument%20Code%20Coverage.png "Argument Method by Method Code Coverage")
 
 At the end of the project, all of the tests we had written were passing. Below is an overview of all the test classes, as well as an overview of the tests from the ArgumentTest class, which tested the basic functions of an argument.
 

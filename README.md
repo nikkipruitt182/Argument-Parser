@@ -45,6 +45,12 @@ At the end of the project, all of the tests we had written were passing. Below i
 
 We created 8 acceptance tests to ensure that our program performed the correct function.
 
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Acceptance%20Test%20Overview.png "Acceptance Test Overview")
+
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Acceptance%20Test%20Details.png "Acceptance Test Details")
+
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Acceptance%20Test%201%20Details.png "Acceptance Test 1 Details")
+
 ### Documentation
 
 

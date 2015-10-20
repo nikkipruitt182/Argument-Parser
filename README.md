@@ -2,15 +2,15 @@
 
 ## Introduction
 
-This project was a group term project for my Software Engineering I course. The goal was to create a command line argument parser using test-driven development. 
+This project was a group term project for my Software Engineering I course. The goal was to create a command line argument parser using test-driven development and the agile methodolgy, Scrum. Over the course of 5 2-week sprints, we attended 4 meetings a week, each consisting of a 15 minute Scrum and an hour of working on the code in groups and individually.  
 
 ### Tools Used
 
-* Git -
-  * Github - 
-* Gradel -
+* Git - Git was used for source control.
+  * Github - Github was used as a host for our source control repository.
+* Gradel - 
 * Robot Framework -
-* Trello - 
+* Trello - Trello was used to organize our product backlog and create the sprint backlog.
 
 
 ## Classes
@@ -52,6 +52,8 @@ We created 8 acceptance tests to ensure that our program performed the correct f
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Acceptance%20Test%201%20Details.png "Acceptance Test 1 Details")
 
 ### Documentation
+
+We also created documentation for our project using Javadoc. 
 
 
 

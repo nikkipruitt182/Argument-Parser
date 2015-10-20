@@ -68,7 +68,7 @@ We also created documentation for our project using Javadoc. All classes, includ
 
 Below is a sample main class designed to be a volume calculator. There are 3 positional arguments named, length, width, and height. It then reads the arguments that were entered into the command line upon running the program, and tries to parse the arguments based on the specified data type. If the parsing is successful, it then calculates the volume. 
 
-
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Sample%20Main.png "Sample Main")
 
 ## Acknowledgements
 Alix Rosarion, Sari Sabouh, Kris Daye, Steven Dudchock, and Yi Chen are co-contributors to this project. 

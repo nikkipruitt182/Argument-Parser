@@ -53,9 +53,9 @@ We created 8 acceptance tests to ensure that our program performed the correct f
 
 ### Documentation
 
-We also created documentation for our project using Javadoc. 
+We also created documentation for our project using Javadoc. All classes, including expections, are covered in the documentation, as well as the enumeration we created for the argument data type.
 
-
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Documentation.png "Documentation Overview")
 
 ## Acknowledgements
 Alix Rosarion, Sari Sbouh, Kris Daye, Steven Dudchock, and Yi Chen are co-contributors to this project. 

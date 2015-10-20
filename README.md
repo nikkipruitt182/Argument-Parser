@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was a group term project for my Software Engineering I course. The goal was to create a command line argument parser using test-driven development and the agile methodolgy, Scrum. Over the course of 5 2-week sprints, we attended 4 meetings a week, each consisting of a 15 minute Scrum and an hour of working on the code in groups and individually.  
+This project was a group term project for my Software Engineering I course. The goal was to create a command line argument parser using test-driven development and the agile methodology, Scrum. Over the course of 5 2-week sprints, we attended 4 meetings a week, each consisting of a 15 minute Scrum and an hour of working on the code in groups and individually.  
 
 ### Tools Used
 
@@ -19,7 +19,7 @@ This project was a group term project for my Software Engineering I course. The 
 * **Argument** - extension of the Command Line Argument, specifically dealing with positional arguments. These arguments are required.
 * **Optional Argument** - extension of the Command Line Argument, specifically dealing with named arguments.
 * **Argument Parser** - houses the argument parser class, which parses arguments from the command line.
-* **XML Parser** - an implementation of Argument Parser which deals specifcially with XML files. 
+* **XML Parser** - an implementation of Argument Parser which deals specifically with XML files. 
 * There were also a few exception classes.
 
 ## Samples 
@@ -60,7 +60,7 @@ Below is an example of an acceptance test from the Feature1Keywords.txt file.
 
 ### Documentation
 
-We also created documentation for our project using Javadoc. All classes, including expections, are covered in the documentation, as well as the enumeration we created for the argument data type.
+We also created documentation for our project using Javadoc. All classes, including exceptions, are covered in the documentation, as well as the enumeration we created for the argument data type.
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Documentation.png "Documentation Overview")
 

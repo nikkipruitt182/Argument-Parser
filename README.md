@@ -42,6 +42,7 @@ At the end of the project, all of the tests we had written were passing. Below i
 
 The following code snippet shows a unit test that is designed to add 3 arguments to the list of arguments, then try to parse a simulation of a command line input. If the parse is successful, then the values passed in will be assigned to the arguments specified at the beginning of the test.
 
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Parse%20Argument%20Test.png "Parse Argument Test")
 
 ### Acceptance Tests
 

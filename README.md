@@ -6,20 +6,20 @@ This project was a group term project for my Software Engineering I course. The 
 
 ### Tools Used
 
-* Git - used for source control.
-  * Github - used as a host for our source control repository.
-* Gradle - used for build automation. 
-* Robot Framework - used for acceptance test automation.
-* Trello - used to organize our product backlog and create the sprint backlog.
+* **Git** - used for source control.
+  * *Github* - used as a host for our source control repository.
+* **Gradle** - used for build automation. 
+* **Robot Framework** - used for acceptance test automation.
+* **Trello** - used to organize our product backlog and create the sprint backlog.
 
 
 ## Classes
 
-* Command Line Argument - abstraction of a general argument that can be parsed from the command line. Both positional and named arguments have a name, description, data type, and value. All arguments also have the options of holding multiple values, and can be restricted to specific values.
-* Argument - extension of the Command Line Argument, specifically dealing with positional arguments. These arguments are required.
-* Optional Argument - extension of the Command Line Argument, specifically dealing with named arguments.
-* Argument Parser - houses the argument parser class, which parses arguments from the command line.
-* XML Parser - an implementation of Argument Parser which deals specifcially with XML files. 
+* **Command Line Argument** - abstraction of a general argument that can be parsed from the command line. Both positional and named arguments have a name, description, data type, and value. All arguments also have the options of holding multiple values, and can be restricted to specific values.
+* **Argument** - extension of the Command Line Argument, specifically dealing with positional arguments. These arguments are required.
+* **Optional Argument** - extension of the Command Line Argument, specifically dealing with named arguments.
+* **Argument Parser** - houses the argument parser class, which parses arguments from the command line.
+* **XML Parser** - an implementation of Argument Parser which deals specifcially with XML files. 
 * There were also a few exception classes.
 
 ## Samples 

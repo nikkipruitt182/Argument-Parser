@@ -26,7 +26,7 @@ This project was a group term project for my Software Engineering I course. The 
 
 ### Unit Tests
 
-We created unit tests for 4 of our 5 classes (not including exception classes), with the final number of unit tests being 67. By the end of the project, we had 94% of the code coverage, or 94% of the code being tested by unit tests. 
+We created unit tests for 4 of our 5 classes (not including exception classes). The final unit tests count was 67 tests. By the end of the project, we had 94% of the code coverage, or 94% of the code being tested by unit tests. 
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Overall%20Code%20Coverage.png "Overall Code Coverage")
 
@@ -39,6 +39,8 @@ At the end of the project, all of the tests we had written were passing. Below i
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/UnitTestResults.png "Overall Unit Test Results")
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/ArgumentClassUnitTestResults.png "Argument Class Test Results")
+
+The following code snippet shows a unit test that is designed to add 3 arguments to the list of arguments, then try to parse a simulation of a command line input. If the parse is successful, then the values passed in will be assigned to the arguments specified at the beginning of the test.
 
 
 ### Acceptance Tests

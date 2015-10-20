@@ -54,6 +54,10 @@ We created 8 acceptance tests to ensure that our program performed the correct f
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Acceptance%20Test%201%20Details.png "Acceptance Test 1 Details")
 
+Below is an example of an acceptance test from the Feature1Keywords.txt file. 
+
+![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Test1Keywords.png "Acceptance Test 1 Keywords")
+
 ### Documentation
 
 We also created documentation for our project using Javadoc. All classes, including expections, are covered in the documentation, as well as the enumeration we created for the argument data type.

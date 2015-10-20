@@ -2,15 +2,15 @@
 
 ## Introduction
 
-This project was a group term project for my Software Engineering I course. The goal was to create a command line argument parser using test-driven development and the agile methodology, Scrum. Over the course of 5 2-week sprints, we attended 4 meetings a week, each consisting of a 15 minute Scrum and an hour of working on the code in groups and individually.  
+This project was a group term project for my Software Engineering I course. The goal was to create a command line argument parser using test-driven development and the agile methodology, Scrum. Over the course of five 2-week sprints, we attended four meetings a week, each consisting of a 15 minute Scrum and an hour of working on the code in groups and individually.  
 
 ### Tools Used
 
-* **Git** - used for source control.
-  * *Github* - used as a host for our source control repository.
-* **Gradle** - used for build automation. 
-* **Robot Framework** - used for acceptance test automation.
-* **Trello** - used to organize our product backlog and create the sprint backlog.
+* **Git** - used for source control
+  * *Github* - used as a host for our source control repository
+* **Gradle** - used for build automation
+* **Robot Framework** - used for acceptance test automation
+* **Trello** - used to organize our product backlog and create the sprint backlog
 
 
 ## Classes
@@ -26,7 +26,7 @@ This project was a group term project for my Software Engineering I course. The 
 
 ### Unit Tests
 
-We created unit tests for 4 of our 5 classes (not including exception classes). The final unit tests count was 67 tests. By the end of the project, we had 94% of the code coverage, or 94% of the code being tested by unit tests. 
+We created unit tests for 4 of our 5 classes (not including exception classes). In the final sprint we ended up having was 67 unit tests. By the end of the project, we had 94% code coverage, or 94% of the code being tested by unit tests. 
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Overall%20Code%20Coverage.png "Overall Code Coverage")
 
@@ -34,19 +34,19 @@ We created unit tests for 4 of our 5 classes (not including exception classes). 
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Argument%20Code%20Coverage.png "Argument Method by Method Code Coverage")
 
-At the end of the project, all of the tests we had written were passing. Below is an overview of all the test classes, as well as an overview of the tests from the ArgumentTest class, which tested the basic functions of an argument.
+At the end of the project, all of the tests were passing. Below is an overview of all the test classes. I included an overview of the tests from the ArgumentTest class, which tests the basic functions of a positional argument.
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/UnitTestResults.png "Overall Unit Test Results")
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/ArgumentClassUnitTestResults.png "Argument Class Test Results")
 
-The following code snippet shows a unit test that is designed to add 3 arguments to the list of arguments, then try to parse a simulation of a command line input. If the parse is successful, then the values passed in will be assigned to the arguments specified at the beginning of the test.
+The following code snippet shows a unit test designed to add 3 arguments to the list of arguments, then try to parse a simulation of a command line input. If the parse is successful, then the values passed in will be assigned to the specified arguments declared in the beginning of the test.
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Parse%20Argument%20Test.png "Parse Argument Test")
 
 ### Acceptance Tests
 
-We created 8 acceptance tests to ensure that our program performed the correct function.
+We created 8 acceptance tests to ensure that our program performed to the project specifications.
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Acceptance%20Test%20Overview.png "Acceptance Test Overview")
 
@@ -60,15 +60,15 @@ Below is an example of an acceptance test from the Feature1Keywords.txt file.
 
 ### Documentation
 
-We also created documentation for our project using Javadoc. All classes, including exceptions, are covered in the documentation, as well as the enumeration we created for the argument data type.
+We created documentation for our project using Javadoc. All classes, including exceptions, are covered in the documentation, as well as the enumeration we created for the argument data type.
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Documentation.png "Documentation Overview")
 
 ### Sample Main
 
-Below is a sample main class designed to be a volume calculator. There are 3 positional arguments named, length, width, and height. It then reads the arguments that were entered into the command line upon running the program, and tries to parse the arguments based on the specified data type. If the parsing is successful, it then calculates the volume. 
+Below is a sample main class designed to be a volume calculator. There are 3 positional arguments, length, width, and height. When the program is run, it reads the arguments that were entered into the command line, and tries to parse the arguments based on the specified data type. If the parsing is successful, it then calculates the volume. 
 
 ![alt text] (https://github.com/nikkipruitt182/Argument-Parser/blob/master/Read%20Me%20Images/Sample%20Main.png "Sample Main")
 
 ## Acknowledgements
-Alix Rosarion, Sari Sabouh, Kris Daye, Steven Dudchock, and Yi Chen are co-contributors to this project. 
+Alix Rosarion, Sari Sabouh, and Kris Daye are co-contributors to this project. 
